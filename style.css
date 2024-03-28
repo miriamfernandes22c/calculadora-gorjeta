@@ -118,6 +118,10 @@ main {
     background-color: var(--green-100);
     color: var(--green-800);
 }
+.gorjeta .botao-ativo {
+    background-color: var(--light-green);
+    color: var(--green-800 );
+}
 
 .gorjeta #outra::placeholder {
     color: var(--green-300);
